@@ -1,2 +1,4 @@
+.DS_Store
 .idea
-*/desktop.ini
+/.vscode
+desktop.ini
